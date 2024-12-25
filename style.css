@@ -1,0 +1,57 @@
+#name{
+    padding: 7px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+body{
+    text-align: center;
+}
+label{
+    font-size: larger;
+}
+.image img{
+    cursor: pointer;
+    border: 2px solid blue;
+    margin: 20px;
+}
+ul li{
+    list-style: none;
+    text-align: justify;
+    margin: 10px;
+}
+button{
+    cursor: pointer;
+}
+#para{
+    text-align: left;
+}
+.text{
+    text-decoration: underline;
+    cursor: pointer;
+}
+span{
+    text-decoration: underline;
+}
+
+.lessdata{
+    display: none;
+}
+input{
+    padding: 7px;
+    border-color: black;
+    border-radius: 5px;
+}
+.box{
+    border: 3px solid black;
+    max-width: fit-content;
+    margin: 0 auto;
+    padding: 13px 30px;
+}
+table{
+    margin: 30px auto;
+    border: 3px solid black;
+    padding: 10px 50px;
+}
+th{
+    font-size: larger;
+}
